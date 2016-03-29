@@ -1,5 +1,5 @@
 # LPTHW
 
-Uploading my finished exercises of LPTHW by Zed shaw.
+Personal python projects.
 
-Ciao!
+Range from beginner to intermediate as I go on.
