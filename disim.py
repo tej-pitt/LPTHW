@@ -1,5 +1,4 @@
 import random
-
 counter = 0
 guess = 0
 number = random.randint(0,99)
