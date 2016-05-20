@@ -1,6 +1,7 @@
-This is a gt test demo.
+This folder contains the study drills and web game from ex51-52 of zed shaw's LPTHW.
+It also contains the upload form and related code for uploading a file on a webpage form and storing it in a local folder. 
 
+---------------------tejas pitkar ------------tejas2kxv@gmail.com---------------------------------------------------------
 
-The folders contain the web game from EX52 of LPTHW by Zed Shaw. It contains extra exercises from study drills and the upload a file form 
-and store it in the folder code. 
+ 
 
