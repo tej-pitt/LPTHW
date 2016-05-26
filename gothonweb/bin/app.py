@@ -39,7 +39,7 @@ class Upload(object):
         x= web.input(myfile={})
         filedir= "C:/Users/tejas/Documents/filesave"
         if 'myfile' in x:
-            fout = open(filedir + '/' + 'myfile.jpg', 'wb') # creates the file where the uploaded file should be stored
+            fout = open(filedir + '/' + x.myfile.filename, 'wb') # creates the file where the uploaded file should be stored
             fout.write(x.myfile.file.read()) # writes the uploaded file to the newly created file.
             fout.close() # closes the file, upload complete
             return "Success! Your image has been saved in the given folder."
